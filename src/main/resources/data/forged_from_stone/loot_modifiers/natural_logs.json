@@ -1,0 +1,12 @@
+{
+  "type": "forged_from_stone:tag_log_replacements",
+  "conditions": [
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 1.0
+    }
+  ],
+  "quantity": 1,
+  "target_tag": "minecraft:logs",
+  "replacement": "forged_from_stone:logs/base_log"
+}
